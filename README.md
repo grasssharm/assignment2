@@ -1,2 +1,2 @@
-# assignment_2
+# assignment2
 CDL Week 4 Exercise
